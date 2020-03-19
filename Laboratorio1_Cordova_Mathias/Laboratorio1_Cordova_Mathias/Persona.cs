@@ -1,14 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace nombre
+namespace Laboratorio1_Cordova_Mathias
 {
     public class Persona
     {
         private string Nombre;
         private string Apellido;
-        public Persona(string nombre,string apellido)
+        public Persona(string nombre, string apellido)
         {
             Nombre = nombre;
             Apellido = apellido;
@@ -24,9 +26,10 @@ namespace nombre
         public string Name()
         {
             return $"{Nombre} {Apellido}";
-            
-            
+
+
         }
 
     }
 }
+

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio1_Cordova_Mathias", "Laboratorio1_Cordova_Mathias\Laboratorio1_Cordova_Mathias.csproj", "{0EB8ECB4-8BAF-49E8-B4F5-358570B910BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio1_Cordova_Mathias", "Laboratorio1_Cordova_Mathias\Laboratorio1_Cordova_Mathias.csproj", "{2C3F2FAC-CD79-4E5A-9C53-BE29EEF54FDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0EB8ECB4-8BAF-49E8-B4F5-358570B910BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0EB8ECB4-8BAF-49E8-B4F5-358570B910BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0EB8ECB4-8BAF-49E8-B4F5-358570B910BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0EB8ECB4-8BAF-49E8-B4F5-358570B910BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3F2FAC-CD79-4E5A-9C53-BE29EEF54FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3F2FAC-CD79-4E5A-9C53-BE29EEF54FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3F2FAC-CD79-4E5A-9C53-BE29EEF54FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3F2FAC-CD79-4E5A-9C53-BE29EEF54FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {ADC723F7-734E-45F5-850C-99E46284D6AB}
+		SolutionGuid = {DF989D4D-5C9A-4687-8379-092240333CF7}
 	EndGlobalSection
 EndGlobal
